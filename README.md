@@ -1,5 +1,7 @@
+![Cover](https://github.com/yashgv/yashgv/assets/130405230/498467e8-552d-4614-a9fc-c4b527911f43)
+
 <h1 align="center">Hi 👋, I'm Yash Varma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate student-programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgv&label=Profile%20views&color=0e75b6&style=flat" alt="yashgv" /> </p>
 
