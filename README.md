@@ -1,4 +1,5 @@
-![Cover](https://github.com/yashgv/yashgv/assets/130405230/498467e8-552d-4614-a9fc-c4b527911f43)
+![Cover](https://github.com/yashgv/yashgv/assets/130405230/00825419-96e0-4ab5-8eba-0f345861bd30)
+
 
 <h1 align="center">Hi 👋, I'm Yash Varma</h1>
 <h3 align="center">A passionate student-programmer</h3>
