@@ -26,6 +26,7 @@
 
 - 📄 Know about my experiences [https://yashvarma.vercel.app/pdfs/yashvarma.pdf](https://yashvarma.vercel.app/pdfs/yashvarma.pdf)
 
+<div style = "background: #ffffff">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_yashvarma_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_yashvarma_" height="30" width="40" /></a>
@@ -35,9 +36,53 @@
 <a href="https://www.hackerrank.com/@yv44905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@yv44905" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yashvarma2702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashvarma2702" height="30" width="40" /></a>
 </p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![webpack](https://skillicons.dev/icons?i=webpack)](https://webpack.js.org/)
+[![sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
+<h3>Technologies</h3>
+
+![python](https://skillicons.dev/icons?i=python)
+![java](https://skillicons.dev/icons?i=java)
+![c](https://skillicons.dev/icons?i=c)
+![cpp](https://skillicons.dev/icons?i=cpp)
+![django](https://skillicons.dev/icons?i=django)
+![flask](https://skillicons.dev/icons?i=flask)
+![javascript](https://skillicons.dev/icons?i=javascript)
+![html](https://skillicons.dev/icons?i=html)
+![css](https://skillicons.dev/icons?i=css)
+![nodejs](https://skillicons.dev/icons?i=nodejs)
+![react](https://skillicons.dev/icons?i=react)
+![nextjs](https://skillicons.dev/icons?i=nextjs)
+[![streamlit](https://skillicons.dev/icons?i=streamlit)](https://streamlit.io/)
+[![crewai](https://skillicons.dev/icons?i=crewai)](https://www.crewai.com/)
+[![typescript](https://skillicons.dev/icons?i=typescript)](https://typescriptlang.org/)
+[![react](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![css](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/docs/Web/CSS)
+[![html](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/docs/Web/HTML)
+[![javascript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![nodejs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![fastapi](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
+[![git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![angular](https://skillicons.dev/icons?i=angular)](https://angular.io/)
+[![java](https://skillicons.dev/icons?i=java)](https://java.com/)
+[![c](https://skillicons.dev/icons?i=c)](https://w3schools.com/c/)
+[![nextjs](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![wordpress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org/)
+[![postgresql](https://skillicons.dev/icons?i=postgresql)](https://postgresql.org/)
+[![cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://cloudflare.com/)
+[![aws](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+[![azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
+[![gcp](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
+[![nginx](https://skillicons.dev/icons?i=nginx)](https://nginx.com/)
+[![styledcomponents](https://skillicons.dev/icons?i=styledcomponents)](https://styled-components.com/)
+[![svg](https://skillicons.dev/icons?i=svg)](https://developer.mozilla.org/docs/Web/SVG)
+[![vscode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![vim](https://skillicons.dev/icons?i=vim)](https://neovim.io/)
+[![linux](https://skillicons.dev/icons?i=linux)](https://distrochooser.de/)
+
+</br>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/yashvarma2h"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yashvarma2h" /></a></p>
