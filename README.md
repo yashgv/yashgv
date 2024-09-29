@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
-- 👨‍💻 All of my projects are available at [yashvarma.vercel.app](yashvarma.vercel.app)
+- 👨‍💻 All of my projects are available at [yashvarma.vercel.app](https://yashvarma.vercel.app)
 
 - 📫 How to reach me **yashvarma2702@gmail.com**
 
