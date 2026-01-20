@@ -9,10 +9,10 @@ Description: Portfolio and GitHub profile of Yash Varma, a Software Engineer spe
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Yash%20Varma&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Specialist&descAlignY=55&descSize=25" width="100%" alt="Yash Varma - Software Engineer and AI Specialist Banner"/>
 
   <p align="center">
-    <a href="https://linkedin.com/in/yashhvarma" target="_blank">
+    <a href="https://linkedin.com/in/yashvarma-in" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
     </a>
-    <a href="https://yashvarma.vercel.app" target="_blank">
+    <a href="https://yashvarma.in" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googledomains&logoColor=white" alt="Personal Portfolio" />
     </a>
     <a href="mailto:yashvarma2702@gmail.com">
