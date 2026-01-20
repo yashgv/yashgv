@@ -74,17 +74,6 @@ I am a **Software Engineer** and **AI Researcher** based in India, currently pur
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashgv&theme=aura_dark" height="180" alt="Overall Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashgv&theme=aura_dark&hide_border=true" width="100%" alt="GitHub Contribution Streak" />
-</div>
-
----
-
-### 🏆 Recognitions & Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashgv&theme=aura&no-bg=true&margin-w=15&column=7" width="100%" alt="Github Trophies" />
-</div>
-
 ---
 
 <div align="center">
