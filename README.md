@@ -38,8 +38,8 @@ I am a **Software Engineer** and **AI Researcher** based in India, currently pur
 
 **Languages & Core**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,java,sql&theme=dark" alt="Languages Icons" />
-<p>Python • TypeScript • JavaScript • C++ • C • Java • SQL</p>
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,mysql&theme=dark" alt="Languages Icons" />
+<p>Python • TypeScript • JavaScript • Java • SQL</p>
 
 **AI & Machine Learning**
 <br/>
@@ -60,15 +60,29 @@ I am a **Software Engineer** and **AI Researcher** based in India, currently pur
 
 ---
 
-### 📊 Repository Analytics & Impact
+### 📊 Performance Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashgv&show_icons=true&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Yash Varma's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgv&layout=compact&theme=aura_dark&hide_border=true" height="180" alt="Yash Varma's Top Programming Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashgv&theme=aura_dark" height="180" alt="Profile Details" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashgv&theme=aura_dark" height="180" alt="Commit Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashgv&theme=aura_dark" height="180" alt="Overall Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashgv&theme=aura_dark&hide_border=true" width="48%" alt="GitHub Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashgv&theme=aura_dark&hide_border=true" width="100%" alt="GitHub Contribution Streak" />
+</div>
+
+---
+
+### 🏆 Recognitions & Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashgv&theme=aura&no-bg=true&margin-w=15&column=7" width="100%" alt="Github Trophies" />
 </div>
 
 ---
